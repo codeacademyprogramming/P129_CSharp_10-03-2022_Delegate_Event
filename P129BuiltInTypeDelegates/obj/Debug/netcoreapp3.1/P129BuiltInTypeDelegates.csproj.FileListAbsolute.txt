@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\bin\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.exe
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\bin\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.deps.json
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\bin\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\bin\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\bin\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.dll
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\bin\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.pdb
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.dll
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.pdb
+C:\Users\memme\Desktop\P129\Task\P129BuiltInTypeDelegates\obj\Debug\netcoreapp3.1\P129BuiltInTypeDelegates.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Event\bin\Debug\netcoreapp3.1\P129Event.exe
+C:\Users\memme\Desktop\P129\Task\P129Event\bin\Debug\netcoreapp3.1\P129Event.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Event\bin\Debug\netcoreapp3.1\P129Event.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Event\bin\Debug\netcoreapp3.1\P129Event.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Event\bin\Debug\netcoreapp3.1\P129Event.dll
+C:\Users\memme\Desktop\P129\Task\P129Event\bin\Debug\netcoreapp3.1\P129Event.pdb
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.dll
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.pdb
+C:\Users\memme\Desktop\P129\Task\P129Event\obj\Debug\netcoreapp3.1\P129Event.genruntimeconfig.cache
